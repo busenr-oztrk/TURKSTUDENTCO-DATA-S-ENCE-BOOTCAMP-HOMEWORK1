@@ -1,0 +1,39 @@
+1.SORU
+->Başla
+ - Birinci sayıyı al a1,değişkeninde ata
+ - İkinci sayıyı al a2, değişkeninde ata
+ - S=a1+a2
+ -S değişkenini yazdır
+->Bitir
+
+
+
+2.SORU
+->Başla
+  -T=0(toplam değeri için T değeri ata)
+  -a=1
+  -if  a<=100
+       T=T+a
+-T yazdır 
+->Bitir
+
+
+
+3.SORU
+->Başla
+  -Bir sayı al , a değerine ata
+  - if a<=1
+     'sayı asal değildir 'yazdır
+  -else x=2 ata, x<=a  x i her dönüşte 1 arttır
+            .if a%x=0
+             'asal değildir'yazdır
+             döngüden ayrıl
+             .else 'sayı asal sayıdır' yazdır
+->Bitir
+
+
+
+
+
+
+
